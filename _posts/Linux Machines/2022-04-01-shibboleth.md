@@ -1,6 +1,5 @@
 ---
 title: "Shibboleth Hackthebox writeup"
-author: "0xMesbaha"
 header:
   teaser: "/assets/images/shibboleth/20220401204521.png"
 tags: ["Hackthebox", "ipmi", "maria-DB", "zabbix"]

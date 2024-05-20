@@ -1,6 +1,5 @@
 ---
 title: "Open Source HackTheBox Writeup"
-author: "0xMesbaha"
 header:
   teaser: "/assets/images/open-source/20220522230256.png"
 tags: ["Hackthebox", "git", "docker", "port-forwarding"]

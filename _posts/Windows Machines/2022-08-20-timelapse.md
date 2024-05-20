@@ -1,6 +1,5 @@
 ---
 title: "Timelapse Hackthebox writeup"
-author: "0xMesbaha"
 header:
   teaser: "/assets/images/timelapse/20220820143425.png"
 tags: ["Hackthebox", "Active-directory", "LAPS", "pfx"]

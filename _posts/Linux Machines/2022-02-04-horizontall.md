@@ -1,6 +1,5 @@
 ---
 title: "Horizontall Hackthebox writeup"
-author: "0xMesbaha"
 header:
   teaser: "/assets/images/Horizontall/start.png"
 tags: ["Hackthebox", "Port forwarding", "chisel"]
