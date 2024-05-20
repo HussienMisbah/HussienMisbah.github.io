@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Motawkkel Abdulrhman"
+  name             : "Hussien Misbah"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Malware Analysis Professional, Digital Forensics Investigator"
   location         : "EIP"
