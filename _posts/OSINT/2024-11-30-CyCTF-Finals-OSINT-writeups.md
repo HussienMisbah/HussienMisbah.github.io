@@ -5,7 +5,7 @@ header:
 tags: ["CTF", "OSINT"]
 categories:
   - OSINT
-ribbon: yellow
+ribbon: brown
 date: 2024-11-30T12:49:18+34:08
 toc: true
 draft: false
@@ -160,7 +160,7 @@ The challenge description contains several information :
 
 So our initial approach is to search for KFCs near stadiums in France , searching this manually will be very time consuming so we can take a smarter approach which is overpass queries , the area is France the target is KFC near stadiums (we can start with 500m) as a start 
 
-```json
+```bash
 [out:json][timeout:25];
 
 area["name"="France"]->.searchArea;
