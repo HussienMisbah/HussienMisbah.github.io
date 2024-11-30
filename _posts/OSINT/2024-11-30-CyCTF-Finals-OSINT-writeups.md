@@ -1,5 +1,5 @@
 ---
-title: "CyCTF 2024 Finals osint Writeups"
+title: "CyCTF 2024 Finals OSINT Writeups"
 header:
   teaser: "/assets/images/osint/logo.png"
 tags: ["CTF", "OSINT"]
@@ -16,9 +16,8 @@ CyCTF is organized by [Cyshield](https://www.cyshield.com/)'s cysec team every y
 
 ## New Friend
 
-|             |                                                                                             |
-| ----------- | ------------------------------------------------------------------------------------------- |
 | challenge   | New Friend                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------- |
 | about       | osint process , video analysis , GEOINT , SOCMINT                                                                             |
 | description | we have been tracking a female suspect recently and we were able to hack into her mobile phone , however she seems to be very cautious and most likely she already know her phone is not safe anymore , while trying to locate her place it was located in Egypt however we are sure 100% this is not true. we were able to record a short video from her phone before she powered it off eventually and we were not able to identify the location, she has been visiting this places a lot recently, can you help us? an extra information that might be helpful she has been a friend to a multi faceted hairstylist. our goal from this simple task is to reach the hairstylist so we can contact her and get more details about our suspect. the flag is her email address , example flag `CyCTF{fake_staylistmail@gmail.com}`                               |
 | attached  | challenge.mp4                                                                        |
@@ -102,9 +101,9 @@ and finally will find her mail address.
 
 ## Maybe in another UniVerse
 
-|             |                                                                                             |
+
+| challenge   | Maybe in another UniVerse                                                                                 |
 | ----------- | ------------------------------------------------------------------------------------------- |
-| challenge   | Maybe in another UniVerse                                                                                  |
 | about       | osint process  , GEOINT , Metaverse                                                                           |
 | description | The Authorities have been tracking a hacker goes with the name "PWner" , he has been travelling from a country to another to erase his steps , he was very cautions recently , he has deleted most of his social media accounts like facebook , instagram and others based on our observations ,so any user with same name you might found most probably a fake one. But recently we were able to find his wife location and she told us the last thing he sent her was this letter , We are sure that she is hiding something although we believe this is the last message from him ,But we can't solve this puzzle , can you help us ? |
 | attached  | challenge.png                                                                        |
@@ -140,9 +139,8 @@ Walking through the space will find the flag in an image on the wall
 
 ## Complicated
 
-|             |                                                                                             |
-| ----------- | ------------------------------------------------------------------------------------------- |
 | challenge   | Complicated                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------- |
 | about       | osint process  , advanced GEOINT , SOCMINT                                                                         |
 | description | Hello Old Friend , One of my friends challenged me to solve a case but you have never disappointed me and i don't think you will this time , all we know is that during tracking our target , he have recently attended a football match in France and after that he walked to KFC to have a nice meal, the catch is he made a mistake sharing something that reveals his identity while doing these activities. you may think that you have weak clues to find the target however actually it is not. The flag is the person's name , example "Mohamed Samy" will be CyCTF{Mohamed_Samy} |
 | Hint1 | did you know about french territories |
